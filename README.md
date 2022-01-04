@@ -1,4 +1,7 @@
 # Voice-control-collision-avoidance-robot
+ 
+https://user-images.githubusercontent.com/86315266/148056124-17d6f56b-549e-4f9b-afba-5552481b4be2.mp4
+ 
  The main aim of the robot is to scan the voice input and process it for 
 required operation by controlling the robotic vehicle via voice 
 command.
@@ -39,6 +42,5 @@ according to it.
  CIRCUIT DIAGRAM:-
 
 ![CIRCUIT DIAGRAM 2](https://user-images.githubusercontent.com/86315266/132645580-dcb64da4-1239-4003-8208-79e0359db183.png)
-
 
 
